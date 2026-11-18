@@ -9,7 +9,8 @@
 2. 将刚刚创建好的项目克隆到本地，这里以本项目为例，实际操作时这里需要替换你自己的项目。
 
     ```bash
-    git clone https://github.com/Ailln/vue-flask-template.git --depth 1
+    git clone --depth 1 https://github.com/seTalent/Vue-01.git
+    cd Vue-01
     ```
 
 3. 安装环境依赖，本项目需要 Node 环境和 Python 环境，如果对这部分不熟悉的看本文档最后的参考文章。
